@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>jacqui's site of cool stuff</title>
+</head>
+<link rel="stylesheet" type="text/css" href="portfolio.css">
+<link href='https://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
+
+
+
+<body>
+
+<div class="entire-page">
+
+	<div class="animated fadeInLeft sidebar">
+		<div class="name">
+			<div class="full=name">
+				<div class="jacqui">JACQUI</div>
+				<div class="devaney">DEVANEY</div>
+			</div>
+		</div>
+		<div class="navigation">
+			<a href="home.html"><div class="svg-wrapper"> 
+			  <svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
+			    <rect class="shape" height="60" width="200" />
+			   <div class="text">HOME</div></a>
+			  </svg>
+			</div>
+			<a href="projects.html"><div class="svg-wrapper">
+			  <svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
+			    <rect class="shape" height="60" width="200" />
+			    <div class="text">PROJECTS</div></a>
+			  </svg>
+			</div>
+			<div class="svg-wrapper">
+			  <svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
+			    <rect class="shape" height="60" width="200" />
+			    <div class="text">WRITING</div>
+			  </svg>
+			</div>
+			<div class="svg-wrapper">
+			  <svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
+			    <rect class="shape" height="60" width="200" />
+			    <div class="text">RESUME</div>
+			  </svg>
+			</div>
+			<div class="svg-wrapper">
+			  <svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
+			    <rect class="shape" height="60" width="200" />
+			    <div class="text">CONTACT</div>
+			  </svg>
+			</div>
+		</div>
+	</div>
+
+	<div class="me">
+		<div class="journo animated-two fadeInUp">Journalist</div>
+		<div class="story-design animated-three fadeInUp">& Storytelling Designer</div>
+		<div class="intro animated-four fadeInUp">I'm Jacqui Devaney, a digital-first journalism graduate student at New York University. My program is <a href="http://journalism.nyu.edu/graduate/programs/studio-20-digital-first/" target="_blank">Studio 20</a>, check it out.
+		<br>I like designing things, like graphics, stories, user experiences and websites. I'm pretty into reading books, watching television, going outside and eating queso. Always learning.</div>
+	</div>
+
+
+
+
+
+</div>
+
+
+</body>
+</html>
