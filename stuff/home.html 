@@ -10,12 +10,6 @@
 
 <body>
 
-<div class="social-nav animated fadeInLeft">
-		<a href="https://twitter.com/jacquidevaney" class="social-link">twitter</a>
-		<a href="https://www.instagram.com/jacquidevaney/" class="social-link">instagram</a>
-		<a href="https://www.linkedin.com/in/jacqui-devaney-1b26713b" class="social-link">linkedin</a>
-	</div>
-
 <div class="entire-page">
 
 	<div class="animated fadeInLeft sidebar">
@@ -26,34 +20,34 @@
 			</div>
 		</div>
 		<div class="navigation">
-			<a href="index.html"><div class="svg-wrapper"> 
+			<a href="home.html"><div class="svg-wrapper"> 
 			  <svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
 			    <rect class="shape" height="60" width="200" />
 			   <div class="text">HOME</div></a>
 			  </svg>
 			</div>
-			<a href="stuff/projects.html"><div class="svg-wrapper">
+			<a href="projects.html"><div class="svg-wrapper">
 			  <svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
 			    <rect class="shape" height="60" width="200" />
 			    <div class="text">PROJECTS</div></a>
 			  </svg>
 			</div>
-			<a href="stuff/journalism.html"><div class="svg-wrapper">
+			<div class="svg-wrapper">
 			  <svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
 			    <rect class="shape" height="60" width="200" />
-			    <div class="text">JOURNALISM</div></a>
+			    <div class="text">WRITING</div>
 			  </svg>
 			</div>
 			<div class="svg-wrapper">
-			  <a href="stuff/experience.html"><svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
+			  <svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
 			    <rect class="shape" height="60" width="200" />
-			    <div class="text">EXPERIENCE</div></a>
+			    <div class="text">RESUME</div>
 			  </svg>
 			</div>
 			<div class="svg-wrapper">
-			  <a href="stuff/contact.html"><svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
+			  <svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
 			    <rect class="shape" height="60" width="200" />
-			    <div class="text">CONTACT</div></a>
+			    <div class="text">CONTACT</div>
 			  </svg>
 			</div>
 		</div>
@@ -62,7 +56,7 @@
 	<div class="me">
 		<div class="journo animated-two fadeInUp">Journalist</div>
 		<div class="story-design animated-three fadeInUp">& Storytelling Designer</div>
-		<div class="intro animated-four fadeInUp">I'm Jacqui Devaney, a digital-first journalism graduate student at New York University. My program is <a href="http://journalism.nyu.edu/graduate/programs/studio-20-digital-first/" target="_blank" class="studio20">Studio 20</a>, check it out.
+		<div class="intro animated-four fadeInUp">I'm Jacqui Devaney, a digital-first journalism graduate student at New York University. My program is <a href="http://journalism.nyu.edu/graduate/programs/studio-20-digital-first/" target="_blank">Studio 20</a>, check it out.
 		<br>I like designing things, like graphics, stories, user experiences and websites. I'm pretty into reading books, watching television, going outside and eating queso. Always learning.</div>
 	</div>
 
