@@ -32,26 +32,26 @@
 			   <div class="text">HOME</div></a>
 			  </svg>
 			</div>
-			<a href="stuff/projects.html"><div class="svg-wrapper">
+			<a href="projects.html"><div class="svg-wrapper">
 			  <svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
 			    <rect class="shape" height="60" width="200" />
 			    <div class="text">PROJECTS</div></a>
 			  </svg>
 			</div>
-			<a href="stuff/journalism.html"><div class="svg-wrapper">
+			<a href="journalism.html"><div class="svg-wrapper">
 			  <svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
 			    <rect class="shape" height="60" width="200" />
 			    <div class="text">JOURNALISM</div></a>
 			  </svg>
 			</div>
 			<div class="svg-wrapper">
-			  <a href="stuff/experience.html"><svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
+			  <a href="experience.html"><svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
 			    <rect class="shape" height="60" width="200" />
 			    <div class="text">EXPERIENCE</div></a>
 			  </svg>
 			</div>
 			<div class="svg-wrapper">
-			  <a href="stuff/contact.html"><svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
+			  <a href="contact.html"><svg height="60" width="200" xmlns="http://www.w3.org/2000/svg">
 			    <rect class="shape" height="60" width="200" />
 			    <div class="text">CONTACT</div></a>
 			  </svg>
